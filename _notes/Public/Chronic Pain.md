@@ -1,3 +1,8 @@
+---
+title : Chronic Pain
+notetype : feed
+date : 15-04-2021
+---
 # Chronic Pain
 #ChronicPain 
 [[Anesthesia Topics/107.1 Pain physiology]]
